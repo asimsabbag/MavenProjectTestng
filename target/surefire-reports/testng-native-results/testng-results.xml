@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="20" started-at="2019-02-05T11:58:36Z" finished-at="2019-02-05T11:58:36Z">
+  <suite name="Surefire suite" duration-ms="24" started-at="2019-02-05T12:11:25Z" finished-at="2019-02-05T12:11:25Z">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="20" started-at="2019-02-05T11:58:36Z" finished-at="2019-02-05T11:58:36Z">
+    <test name="Surefire test" duration-ms="24" started-at="2019-02-05T12:11:25Z" finished-at="2019-02-05T12:11:25Z">
       <class name="testngpackage.TestngArrayList">
-        <test-method status="PASS" signature="testngArrayList()[pri:0, instance:testngpackage.TestngArrayList@4c203ea1]" name="testngArrayList" duration-ms="9" started-at="2019-02-05T17:28:36Z" finished-at="2019-02-05T17:28:36Z">
+        <test-method status="PASS" signature="testngArrayList()[pri:0, instance:testngpackage.TestngArrayList@1d251891]" name="testngArrayList" duration-ms="11" started-at="2019-02-05T17:41:25Z" finished-at="2019-02-05T17:41:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testngArrayList -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="0.274" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="0.34" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
-    <property name="sun.java.command" value="/home/asimsabbag_qait/Downloads/VSCode-linux-x64/maventestng/target/surefire/surefirebooter2024074931626090172.jar /home/asimsabbag_qait/Downloads/VSCode-linux-x64/maventestng/target/surefire 2019-02-05T17-28-35_677-jvmRun1 surefire2822344550746178958tmp surefire_03057373578455887966tmp"/>
+    <property name="sun.java.command" value="/home/asimsabbag_qait/Downloads/VSCode-linux-x64/maventestng/target/surefire/surefirebooter4733580855841528501.jar /home/asimsabbag_qait/Downloads/VSCode-linux-x64/maventestng/target/surefire 2019-02-05T17-41-25_056-jvmRun1 surefire8116647770793049133tmp surefire_06067515216806026266tmp"/>
     <property name="surefire.test.class.path" value="/home/asimsabbag_qait/Downloads/VSCode-linux-x64/maventestng/target/test-classes:/home/asimsabbag_qait/Downloads/VSCode-linux-x64/maventestng/target/classes:/home/asimsabbag_qait/.m2/repository/org/testng/testng/6.8/testng-6.8.jar:/home/asimsabbag_qait/.m2/repository/junit/junit/4.10/junit-4.10.jar:/home/asimsabbag_qait/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/home/asimsabbag_qait/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar:/home/asimsabbag_qait/.m2/repository/com/beust/jcommander/1.27/jcommander-1.27.jar:/home/asimsabbag_qait/.m2/repository/org/yaml/snakeyaml/1.6/snakeyaml-1.6.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/asimsabbag_qait"/>
@@ -30,7 +30,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/asimsabbag_qait/Downloads/VSCode-linux-x64/maventestng/target/surefire/surefirebooter2024074931626090172.jar"/>
+    <property name="surefire.real.class.path" value="/home/asimsabbag_qait/Downloads/VSCode-linux-x64/maventestng/target/surefire/surefirebooter4733580855841528501.jar"/>
     <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="1.8.0_191-8u191-b12-2ubuntu0.16.04.1-b12"/>
@@ -58,6 +58,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testngArrayList" classname="testngpackage.TestngArrayList" time="0.009"/>
-  <testcase name="shouldAnswerWithTrue on shouldAnswerWithTrue(testngpackage.AppTest)" classname="testngpackage.AppTest" time="0"/>
+  <testcase name="testngArrayList" classname="testngpackage.TestngArrayList" time="0.01"/>
+  <testcase name="shouldAnswerWithTrue on shouldAnswerWithTrue(testngpackage.AppTest)" classname="testngpackage.AppTest" time="0.001"/>
 </testsuite>

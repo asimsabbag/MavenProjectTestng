@@ -1,7 +1,7 @@
 package testngpackage;
 import org.testng.annotations.Test;
-
-import static org.junit.Assert.assertEquals;
+import org.testng.Assert;
+//import static org.junit.Assert.assertEquals;
 
 import java.util.ArrayList;
 public class TestngArrayList {
@@ -15,6 +15,6 @@ public class TestngArrayList {
         expected.add("asjjk");
         expected.add("hhfj");
         ArrayList<String> actual = new ArrayListConsecutive().arrayListFunction(inputList);
-        assertEquals("Build failed due to mismatch",expected, actual);
+        Assert.assertEquals(actual, expected,"Build failed due to mismatch");
     }
 }
